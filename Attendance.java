@@ -47,5 +47,4 @@ public class Attendance {
     }
 
 }
-© 2022 GitHub, Inc.
-Terms
+
